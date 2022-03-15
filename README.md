@@ -1,3 +1,13 @@
-# Show_me_the_Git
+# Header 1
 
-hello
+**hello** world
+
+## Header 2
+
+### Code
+
+```c
+printf("hello");
+```
+
+### Header 3
