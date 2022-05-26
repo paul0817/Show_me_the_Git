@@ -1,7 +1,7 @@
 # Header 1
 
 **hello** world 
-hi github
+\n hi github
 
 ## Header 2
 
